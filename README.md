@@ -1,1 +1,1 @@
-# Flipkart-Grid-2019-Object-Detection
+# Flipkart Grid Challenge 2019-Object Localization
